@@ -1,8 +1,8 @@
-Project Overview:
-The aim of this data science project is to analyze customer demographics, services, tenure, and other variables to predict whether a particular customer will churn or not. Churn, in this context, refers to customers leaving the telecommunications company's services. By understanding the factors that contribute to churn, the company can take proactive measures to retain customers.
+- Project Overview:
+*  The aim of this data science project is to analyze customer demographics, services, tenure, and other variables to predict whether a particular customer will churn or not. Churn, in this context, refers to customers leaving the telecommunications company's services. By understanding the factors that contribute to churn, the company can take proactive measures to retain customers.
 
-Conclusion:
-From the exploratory data analysis, several insights have been derived:
+- Conclusion:
+*  From the exploratory data analysis, several insights have been derived:
 
 Senior citizens exhibit a lower churn rate compared to younger customers.
 Customers who are single or do not have dependents tend to have a higher churn rate.
