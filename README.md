@@ -59,32 +59,25 @@ The dataset contains various features related to customer subscriptions, usage, 
    ```
 ## 📊 Model Visualization & Performance  
 ###  Customer Demographics
-![Travel Plan Generator #1](https://github.com/user-attachments/assets/4e5bbf3f-315d-465d-96c8-faf723309820)
-
+![Image](https://github.com/user-attachments/assets/164da39c-4eed-4ef9-9290-c9f76ef5cfd7)
 ### Services
-![Travel Plan Generator #2](https://github.com/user-attachments/assets/c4779dd9-06d9-401e-8fc1-7ca87e170a6d)
+![Image](https://github.com/user-attachments/assets/8308c73b-c8bb-4535-b294-85029d5c65d6)
 
 ### Tenure and Contract
-![Customization of your Travel Plan](https://github.com/user-attachments/assets/ba1b4e80-381f-439e-bbb4-f32c9ebec948)
+![Image](https://github.com/user-attachments/assets/01ca92f5-bb0d-41a6-81d2-727e71f5e073)
 
 ### Billing and Charges
-![QnA with your Travel Plan](https://github.com/user-attachments/assets/2d5e311c-0eae-4c76-84e5-aa084eaa0ae9)
-
+![Image](https://github.com/user-attachments/assets/dd9c17c4-24d0-4541-bbf8-09210cba4953)
 ### Churn Count
-![Landmark Detection #1](https://github.com/user-attachments/assets/64d03169-1d97-4db2-bc94-b7251ea94e88)
-
+![Image](https://github.com/user-attachments/assets/fea43255-d820-46f0-8294-1b0efc1bbadb)
 ### Customer Demogrpahics and Churn
 
-![Landmark Detection #2](https://github.com/user-attachments/assets/be4bc3f7-53c0-4457-82d7-235feb43f1fd)
-
-### Billing/Charges and Churn
-
-![Chat with your Landmark](https://github.com/user-attachments/assets/fab67c15-6a15-436e-a71f-edd3377557cb)
-
-
+![Image](https://github.com/user-attachments/assets/b8e7f9c6-0f05-4c08-ac0d-b9e7a5b24444)
 
 ## 📊 Model Evaluation
 The model was evaluated using accuracy, precision, recall, and F1-score to ensure robust churn prediction.
 ## 1- Confusion Matrix Heatmap
- ## 2- Model Metrics
+![Image](https://github.com/user-attachments/assets/652088fe-af7e-4aca-9a0c-2bdcdc6bd6d2)
+ ## 2- Model Metrix
 
+![Image](https://github.com/user-attachments/assets/71e65e26-98c9-43cc-9d59-04d629037009)
