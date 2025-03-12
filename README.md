@@ -57,6 +57,34 @@ The dataset contains various features related to customer subscriptions, usage, 
    ```bash
    jupyter notebook
    ```
+## 📊 Model Visualization & Performance  
+###  Customer Demographics
+![Travel Plan Generator #1](https://github.com/user-attachments/assets/4e5bbf3f-315d-465d-96c8-faf723309820)
 
-## 📊 Model Performance  
+### Services
+![Travel Plan Generator #2](https://github.com/user-attachments/assets/c4779dd9-06d9-401e-8fc1-7ca87e170a6d)
+
+### Tenure and Contract
+![Customization of your Travel Plan](https://github.com/user-attachments/assets/ba1b4e80-381f-439e-bbb4-f32c9ebec948)
+
+### Billing and Charges
+![QnA with your Travel Plan](https://github.com/user-attachments/assets/2d5e311c-0eae-4c76-84e5-aa084eaa0ae9)
+
+### Churn Count
+![Landmark Detection #1](https://github.com/user-attachments/assets/64d03169-1d97-4db2-bc94-b7251ea94e88)
+
+### Customer Demogrpahics and Churn
+
+![Landmark Detection #2](https://github.com/user-attachments/assets/be4bc3f7-53c0-4457-82d7-235feb43f1fd)
+
+### Billing/Charges and Churn
+
+![Chat with your Landmark](https://github.com/user-attachments/assets/fab67c15-6a15-436e-a71f-edd3377557cb)
+
+
+
+## 📊 Model Evaluation
 The model was evaluated using accuracy, precision, recall, and F1-score to ensure robust churn prediction.
+## 1- Confusion Matrix Heatmap
+ ## 2- Model Metrics
+
