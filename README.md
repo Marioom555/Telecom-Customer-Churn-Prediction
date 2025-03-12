@@ -1,14 +1,62 @@
-- Project Overview:
-*  The aim of this data science project is to analyze customer demographics, services, tenure, and other variables to predict whether a particular customer will churn or not. Churn, in this context, refers to customers leaving the telecommunications company's services. By understanding the factors that contribute to churn, the company can take proactive measures to retain customers.
+# 📊 Telecom Customer Churn Prediction
 
-- Conclusion:
-*  From the exploratory data analysis, several insights have been derived:
+## 📌 About the Project  
+This project aims to analyze telecom customer data to predict **customer churn** using machine learning techniques. By leveraging customer demographics, subscription details, and usage behavior, the model identifies patterns that influence customer retention.
 
-Senior citizens exhibit a lower churn rate compared to younger customers.
-Customers who are single or do not have dependents tend to have a higher churn rate.
-Customers generally express higher satisfaction with streaming services compared to services like online backup and device protection, resulting in a lower churn rate for streaming services.
-Tenure has an inverse relationship with churn rate, with customers having a tenure shorter than 5 months having a higher churn rate.
-Customers with month-to-month contracts are more likely to churn compared to those with one or two-year contracts, indicating that longer contract durations are associated with lower churn.
-Customers with higher monthly charges and lower total charges are more likely to churn, suggesting that the company should consider reducing monthly charges to mitigate churn.
-The most important features for predicting customer churn, as determined by feature importance, include tenure, contract type, monthly charges, and total charges.
-Machine learning models, including Decision Tree Classifier, Random Forest Classifier, and K Nearest Neighbors Classifier, were employed in this project. The Random Forest Classifier demonstrated the highest accuracy of 82%, along with a high F1 Score and the lowest mean squared error and mean absolute error. Therefore, the Random Forest Classifier is recommended as a suitable model for predicting customer churn in this telecom company's dataset.
+## 🚀 Features  
+- **Data Analysis & Preprocessing** – Cleaning and transforming telecom customer data.
+- **Exploratory Data Analysis (EDA)** – Identifying trends and correlations.
+- **Feature Engineering** – Creating meaningful features for better predictions.
+- **Model Training & Evaluation** – Using machine learning models to predict churn.
+- **Performance Metrics** – Evaluating model accuracy with precision, recall, and F1-score.
+
+## 📊 Dataset Overview  
+The dataset contains various features related to customer subscriptions, usage, and demographics. Below is a summary:
+
+| Feature | Description |
+| --- | --- |
+| CustomerID | Unique customer identifier |
+| Gender | Customer's gender (Male/Female) |
+| SeniorCitizen | Whether the customer is a senior citizen (1/0) |
+| Partner | Whether the customer has a partner (Yes/No) |
+| Dependents | Whether the customer has dependents (Yes/No) |
+| Tenure | Number of months the customer stayed |
+| PhoneService | Subscription to phone service (Yes/No) |
+| InternetService | Internet provider (DSL/Fiber optic/None) |
+| Contract | Type of customer contract (Month-to-month/One year/Two year) |
+| PaymentMethod | Customer's payment method |
+| Churn | Target variable (Yes/No) |
+
+## 🏗️ Tech Stack  
+- **Python** – Data processing and model training.
+- **Pandas & NumPy** – Data manipulation and preprocessing.
+- **Matplotlib & Seaborn** – Data visualization.
+- **Scikit-Learn** – Machine learning modeling.
+- **XGBoost & Random Forest** – Advanced predictive modeling.
+
+## 🔧 Setup & Installation  
+1. Clone this repository:  
+   ```bash
+   git clone https://github.com/your-repo/telecom-churn.git
+   cd telecom-churn
+   ```
+
+2. Create a virtual environment:  
+   ```bash
+   python -m venv venv
+   source venv/bin/activate  # For Mac/Linux
+   venv\Scripts\activate  # For Windows
+   ```
+
+3. Install dependencies:  
+   ```bash
+   pip install -r requirements.txt
+   ```
+
+4. Run the Jupyter Notebook:  
+   ```bash
+   jupyter notebook
+   ```
+
+## 📊 Model Performance  
+The model was evaluated using accuracy, precision, recall, and F1-score to ensure robust churn prediction.
