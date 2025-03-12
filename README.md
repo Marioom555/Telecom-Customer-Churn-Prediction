@@ -31,32 +31,6 @@ The dataset contains various features related to customer subscriptions, usage, 
 - **Python** – Data processing and model training.
 - **Pandas & NumPy** – Data manipulation and preprocessing.
 - **Matplotlib & Seaborn** – Data visualization.
-- **Scikit-Learn** – Machine learning modeling.
-- **XGBoost & Random Forest** – Advanced predictive modeling.
-
-## 🔧 Setup & Installation  
-1. Clone this repository:  
-   ```bash
-   git clone https://github.com/your-repo/telecom-churn.git
-   cd telecom-churn
-   ```
-
-2. Create a virtual environment:  
-   ```bash
-   python -m venv venv
-   source venv/bin/activate  # For Mac/Linux
-   venv\Scripts\activate  # For Windows
-   ```
-
-3. Install dependencies:  
-   ```bash
-   pip install -r requirements.txt
-   ```
-
-4. Run the Jupyter Notebook:  
-   ```bash
-   jupyter notebook
-   ```
 ## 📊 Model Visualization & Performance  
 ###  Customer Demographics
 ![Image](https://github.com/user-attachments/assets/164da39c-4eed-4ef9-9290-c9f76ef5cfd7)
